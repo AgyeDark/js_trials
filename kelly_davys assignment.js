@@ -69,3 +69,6 @@ let loose_equal2 = firstFavNum != secondFavNum;
 //  Log the result in the console.
 console.log({sum,diff,times,division,modu,power,greater_than,less_than,grethan_equal,lessthan_equal,strict_equal,loose_equal,strict_equal1,loose_equal2
 });
+
+
+

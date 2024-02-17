@@ -14,8 +14,6 @@ else if (30>age<60 && 40<weight<80 ){
 
 
 }
-let mummy= ('nsenhunu')
-console.log(mummy)
 
 
 
